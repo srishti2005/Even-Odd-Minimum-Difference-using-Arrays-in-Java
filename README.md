@@ -50,27 +50,16 @@ Or, separate and display the even and odd elements.
 Example Input/Output
 Example 1: Finding Minimum Difference Index
 Input:
-mathematica
-Copy
-Edit
+mathematical operation
 Enter 5 numbers:
 10 12 15 14 18
 Output:
-csharp
-Copy
-Edit
 The index is: 2
 Example 2: Displaying Odd and Even Numbers
 Input:
-mathematica
-Copy
-Edit
 Enter 5 numbers:
 10 12 15 14 18
 Output:
-csharp
-Copy
-Edit
 Array is: [15]
 Array is: [10, 12, 14, 18]
 Features
