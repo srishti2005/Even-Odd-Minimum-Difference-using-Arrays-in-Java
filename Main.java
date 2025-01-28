@@ -1,5 +1,7 @@
-// Mian.java
-
+// Main.java
+// SRishti Tripathi 
+//23070126131
+//AIML - B3
 class Main{
 	public static void main(String args[]){
 		UserInput in = new UserInput();
